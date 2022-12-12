@@ -3,5 +3,5 @@
 lorem ipsum...
 ## project tree
  * [Creational Patterns](./creational-patterns/README.md)
- * [Behavioural Patterns](./behavioural-patterns/README.md)
+ * [Behavioral Patterns](./behavioral-patterns/README.md)
  * [Structural Patterns](./structural-patterns/README.md)
